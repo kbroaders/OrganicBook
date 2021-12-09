@@ -1,5 +1,5 @@
 new_session: yes
-output_dir: "dist"
+output_dir: "../dist"
 delete_merged_file: true
 
 rmd_files: [

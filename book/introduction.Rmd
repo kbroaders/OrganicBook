@@ -6,10 +6,9 @@ This is an introduction the the book overall.
 
 Here are some examples from petroleum to plastics to soaps. See Figure \@ref(fig:my-fig).
 
-<div class="figure">
-<img src="figures/structure.png" alt="An amazing plot"  />
-<p class="caption">(\#fig:my-fig)An amazing plot</p>
-</div>
+```{r my-fig, fig.cap = "An amazing plot", echo=FALSE}
+knitr::include_graphics("figures/structure.png")
+```
 
 ## Organic chemistry in medicine
 
