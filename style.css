@@ -62,3 +62,14 @@ pre code {
   color: #252525;
   border-left: 4px solid #858585
 }
+
+.asidebox {
+  padding: 1em;
+  background: #eee;
+  color: #222;
+  border: 2px solid #222;
+  border-radius: 10px;
+}
+.center {
+  text-align: center;
+}

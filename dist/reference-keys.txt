@@ -2,3 +2,5 @@ fig:my-fig
 introduction
 organic-chemistry-in-daily-life
 organic-chemistry-in-medicine
+lewis-structures
+valence
